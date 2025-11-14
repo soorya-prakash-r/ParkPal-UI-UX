@@ -32,12 +32,6 @@ To reduce traffic congestion and carbon emissions while providing a seamless par
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
-
----
-
 ## 🌟 Acknowledgments
 
 - Thanks to all contributors who help make urban parking easier
