@@ -32,6 +32,17 @@ To reduce traffic congestion and carbon emissions while providing a seamless par
 
 ---
 
+## 🌟 Researchers and Designers:
+
+1. Soorya Prakash R 
+2. Kirubakaran V 
+3. Perumall rishi P 
+4. Sowmiya Narayanan S
+5. Dharanidharan L
+6. Sibichakaravarthi S
+   
+---
+
 ## 🌟 Acknowledgments
 
 - Thanks to all contributors who help make urban parking easier
