@@ -32,7 +32,7 @@ To reduce traffic congestion and carbon emissions while providing a seamless par
 
 ---
 
-## 🌟 Researchers and Designers:
+## 🌟 Researchers and Designers
 
 1. Soorya Prakash R 
 2. Kirubakaran V 
